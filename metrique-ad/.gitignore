@@ -1,0 +1,7 @@
+.venv/
+out/
+clips/
+frames/
+assets/screens/
+assets/keyframes/
+*.mp4

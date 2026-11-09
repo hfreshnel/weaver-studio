@@ -1,0 +1,39 @@
+# ComfyUI is an unmodified upstream clone: rebuilt from comfyui-setup/
+/comfyui/
+
+# Environments, caches, logs, third-party tools
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.log
+*.out
+tools/
+
+# Renders and binary media: backed up outside git (see ~/dev/backup-renders)
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.mp4
+*.webm
+*.mov
+*.glb
+*.obj
+*.blend
+*.blend1
+*.exr
+*.wav
+*.mp3
+*.zip
+*.otf
+*.ttf
+*.ttc
+*.woff2
+
+# Audio inputs are not kept
+*.m4a
+*.flac
+*.aac
+*.ogg

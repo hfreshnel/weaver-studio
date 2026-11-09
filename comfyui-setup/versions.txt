@@ -1,0 +1,9 @@
+# ComfyUI upstream: https://github.com/comfyanonymous/ComfyUI.git
+comfyui b1a247c9cf9dbfda4b2c0a0c1d50950667eeaa0c
+# custom nodes (url commit)
+ComfyUI-Frame-Interpolation https://github.com/Fannovel16/ComfyUI-Frame-Interpolation 26545cc2dd95bc3d27f056016300673bdeee78f5
+ComfyUI-GGUF https://github.com/city96/ComfyUI-GGUF 6ea2651e7df66d7585f6ffee804b20e92fb38b8a
+ComfyUI-KJNodes https://github.com/kijai/ComfyUI-KJNodes d3cfe21625e5170126ce06fbfcfe1d88108688c3
+ComfyUI-VideoHelperSuite https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite 4d907bee61e92c2e65af3bd6383a4e4d356126d1
+ComfyUI-WanAnimatePreprocess https://github.com/kijai/ComfyUI-WanAnimatePreprocess 0e0b6a2a555625acf4d4aefb780e27d06937132f
+comfyui_controlnet_aux https://github.com/Fannovel16/comfyui_controlnet_aux 0cd290477128d42cdc3e76a826a402d866e8c684

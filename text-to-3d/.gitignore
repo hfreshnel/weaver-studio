@@ -1,0 +1,6 @@
+out/
+*.blend
+*.blend1
+*.glb
+__pycache__/
+sheets/

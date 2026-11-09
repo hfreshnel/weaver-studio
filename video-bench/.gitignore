@@ -1,0 +1,14 @@
+# Generated media and run logs (outputs are not versioned)
+*.png
+*.jpg
+*.mp4
+*.webm
+*.log
+*.out
+clips/
+kf/
+rife/
+up/
+preview/
+animate/out/
+__pycache__/

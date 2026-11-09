@@ -1,0 +1,9 @@
+# Local-only override for the ad screenshots (not part of Metrics-Services).
+# The WAF is bypassed (port 80 taken by a host Apache, nginx default.conf conflict in the rebuilt image):
+# the backend is exposed on :8000 and Playwright reroutes http://localhost/api -> http://localhost:8000/api.
+services:
+  backend:
+    ports:
+      - "127.0.0.1:8000:8000"
+    environment:
+      KEYCLOAK_ISSUER: http://localhost:8080/realms/metrique

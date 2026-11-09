@@ -1,0 +1,12 @@
+# Generated media, mattes and bench outputs (outputs are not versioned)
+*.png
+*.jpg
+*.mp4
+*.webm
+*.log
+src/
+layers/
+eval/
+bench/
+matte_*/
+__pycache__/

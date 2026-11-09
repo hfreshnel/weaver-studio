@@ -1,0 +1,7 @@
+[
+ {"name": "S1", "dir": "renders/s1v3_576", "start": 0, "count": 60, "rain": 0.55, "grade": {"exposure": 0.2, "gains": [0.95, 1.0, 1.08]}},
+ {"name": "S2", "dir": "clips/s2up", "start": 0, "count": 60,
+  "boatlight": {"x": 244, "y": 650, "from": 6, "gain": 1.4, "track": [0, 300, 560, 900]}, "grade": {"gains": [1, 1, 1.03]}},
+ {"name": "S3", "dir": "clips/s3up", "start": 0, "count": 48, "lightup": [8, 18], "warmkey": 0.9, "grade": {"exposure": 0.1}},
+ {"name": "S4", "dir": "clips/s4v2v35", "start": 0, "count": 72, "rain": 0.6, "grade": {"exposure": 0.2, "gains": [0.95, 1.0, 1.08]}}
+]

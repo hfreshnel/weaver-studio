@@ -1,0 +1,12 @@
+tools/
+renders/
+clips/
+kf/
+frames/
+*.mp4
+*.png
+*.blend
+*.blend1
+*.exr
+*.wav
+logs/

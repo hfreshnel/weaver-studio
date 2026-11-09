@@ -1,0 +1,69 @@
+{
+  "P01": {
+    "key": "assets/keyframes/P01_10012.png"
+  },
+  "P02": {
+    "key": "assets/keyframes/P02_10022.png"
+  },
+  "P03": {
+    "key": "assets/keyframes/P03_10030.png"
+  },
+  "P04": {
+    "key": "assets/keyframes/P04_10047.png"
+  },
+  "P05": {
+    "key": "assets/keyframes/P05_10056.png"
+  },
+  "P06": {
+    "key": "assets/keyframes/P06_10060.png"
+  },
+  "P07": {
+    "key": "assets/keyframes/P07_10072.png"
+  },
+  "P08": {
+    "key": "assets/keyframes/P08_10080.png"
+  },
+  "P09": {
+    "key": "assets/keyframes/P09_brand.png"
+  },
+  "P10": {
+    "key": "assets/keyframes/P10_10102.png"
+  },
+  "P11": {
+    "key": "assets/keyframes/P11_10111.png"
+  },
+  "highlights": {
+    "prest_verifie": [
+      300,
+      2340,
+      712,
+      2438
+    ],
+    "packs": [
+      99,
+      3890,
+      1071,
+      5210
+    ],
+    "identite": [
+      99,
+      5900,
+      1071,
+      6074
+    ],
+    "packs_scroll": 3700,
+    "escrow": [
+      130,
+      2525,
+      1040,
+      2650
+    ],
+    "escrow_scroll": 2000,
+    "card": [
+      36,
+      1584,
+      567,
+      2136
+    ]
+  }
+}
